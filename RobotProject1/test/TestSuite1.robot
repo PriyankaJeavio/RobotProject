@@ -12,6 +12,10 @@ Default Tags    sanity
 MyFirstTest
      [Tags]    smoke
     Log    Hello World.... 
+    
+MySecondTest
+     [Tags]    smoke
+    Log    Hello World from second test....
    
      
     
